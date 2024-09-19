@@ -15,7 +15,7 @@ const giProducts = {
         },
         { 
             name: "Dharwad Pedha", 
-            image: "images/dharwad-pedha.jpg", 
+            image: "images/dharwad-pedha.JPG", 
             price: 200, 
             description: "A traditional sweet from Dharwad, Karnataka, made from milk and sugar with a granular texture and a mildly sweet flavor."
         },
